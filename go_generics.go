@@ -1,22 +1,3 @@
-# Inhalt und Autor
-
-## Inhaltszusammenfassung
-
-Mit der Version 1.18 hat Go nach jahrelanger Entwicklungszeit Unterstützung von Generics erhalten. In diesem Artikel wird anhand von Beispielen erklärt, wie Generics in Go funktionieren und welche Auswirkungen die neue Sprachfunktion auf Go-Code haben.
-
-## Über den Autor (lang)
-
-Rainer Stropek ist seit über 25 Jahren als Unternehmer in der IT-Industrie tätig. Er gründete und führte in dieser Zeit mehrere IT-Dienstleistungsunternehmen und entwickelt neben seiner Tätigkeit als Trainer und Berater in seiner Firma *software architects* mit seinem Team die preisgekrönte Software *time cockpit* ([https://www.timecockpit.com](https://www.timecockpit.com)).
-
-Rainer hat Abschlüsse an der höheren, technischen Schule für Informatik, Leonding (AT) sowie der University of Derby (UK). Er ist Autor mehrerer Fachbücher und Artikel in Magazinen im Umfeld von Microsoft .NET und C#, Azure, Go und Rust. Seine technischen Schwerpunkte sind Cloud Computing, die Entwicklung verteilter Systeme sowie Datenbanksysteme. Rainer tritt regelmäßig als Speaker und Trainer auf namhaften Konferenzen in Europa und den USA auf. 2010 wurde Rainer von Microsoft zu einem der ersten MVPs für die Azure-Plattform ernannt. Seit 2015 ist Rainer Microsoft Regional Director. 2016 hat Rainer zusätzlich den MVP Award für Visual Studio und Developer Technologies erhalten.
-
-## Über den Autor (kurz)
-
-Rainer Stropek ist IT-Unternehmer, Softwareentwickler, Trainer, Autor und Vortragender im Microsoft-Umfeld. Er ist seit 2010 MVP für Microsoft Azure und entwickelt mit seinem Team die Zeiterfassung für Dienstleistungsprofis *time cockpit* ([https://www.timecockpit.com](https://www.timecockpit.com)).
-
-## Bild des Autors
-
-![Rainer Stropek](https://cddataexchange.blob.core.windows.net/data-exchange/Rainer_Stropek.jpg)
 //////////////////////////////////////////////////
 // Listing 1: lentil-Struktur als Ausgangsbasis //
 //////////////////////////////////////////////////
